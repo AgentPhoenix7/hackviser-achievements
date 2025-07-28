@@ -2,3 +2,5 @@
 https://app.hackviser.com/show/AgntDrgn/warmups/file-hunter?id=3e34e697fa4d42279dec0f6d037cd9ce
 2. Secure Command
 https://app.hackviser.com/show/AgntDrgn/warmups/secure-command?id=fb2dbe9cd2824bd1b935851f138b7b41
+3. Query Gate
+https://app.hackviser.com/show/AgntDrgn/warmups/query-gate?id=427e553c704745268d57dfbc14c1375c
